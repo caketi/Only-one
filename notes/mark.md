@@ -24,3 +24,6 @@ Memory model concepts
 
 
 https://muguacloud.cc/
+
+# compiler 
+https://courses.grainger.illinois.edu/cs374/fa2020/lectures.html
